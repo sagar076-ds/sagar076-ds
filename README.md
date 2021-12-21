@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello 👋 everyone,my name is Sagar Sadhwani
+I am currently learning about blockchain and working on some python projects.
+
+### Talks about:
+- Coding
+- Entreprenuership
+- Personal finance
+- Tech-ethic
+- Investing in share market and cryptocurrency
+
+
+### THAT'S IT!
 
 <!--
 **sagar076-ds/sagar076-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
